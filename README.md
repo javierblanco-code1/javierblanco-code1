@@ -1,6 +1,6 @@
 # Javier Blanco — Analista SOC L1 / Ciberseguridad Jr.
 
-Analista SOC L1 en formación, con laboratorio propio de detección y respuesta. Trabajo el triage de alertas, el análisis y correlación de logs, el enriquecimiento de IOC y la documentación de incidentes, sobre una base sólida de redes TCP/IP y automatización en Python.
+Analista SOC L1, con laboratorio propio de detección y respuesta. Trabajo el triage de alertas, el análisis y correlación de logs, el enriquecimiento de IOC y la documentación de incidentes, sobre una base sólida de redes TCP/IP y automatización en Python.
 
 ---
 
